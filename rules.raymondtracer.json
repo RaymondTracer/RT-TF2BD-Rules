@@ -10,7 +10,7 @@
 	"rules": [
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -24,7 +24,8 @@
 						"(\\(\\d+\\))?https://octogaming.tk/mcd",
 						"(\\(\\d+\\))?quizno",
 						"(\\(\\d+\\))?Lucien",
-						"(\\(\\d+\\))?\\(CORPORATE\\) Cvnt"
+						"(\\(\\d+\\))?\\(CORPORATE\\) Cvnt",
+						"(\\(\\d+\\))?Ninjabot #\\d{4}"
 					]
 				}
 			}
