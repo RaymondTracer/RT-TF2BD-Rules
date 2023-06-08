@@ -4,7 +4,8 @@
 		"authors": [
 			"Raymond Tracer"
 		],
-		"title": "Raymond Tracer's Custom Rule List"
+		"title": "Raymond Tracer's Custom Rule List",
+		"update_url": "https://raw.githubusercontent.com/RaymondTracer/RT-TF2BD-Rules/main/rules.raymondtracer.json"
 	},
 	"rules": [
 		{
