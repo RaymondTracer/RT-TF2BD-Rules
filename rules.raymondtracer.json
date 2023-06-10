@@ -25,7 +25,8 @@
 						"(\\(\\d+\\))?quizno",
 						"(\\(\\d+\\))?Lucien",
 						"(\\(\\d+\\))?\\(CORPORATE\\) Cvnt",
-						"(\\(\\d+\\))?Ninjabot #\\d{4}"
+						"(\\(\\d+\\))?Ninjabot #\\d{4}",
+						"(\\(\\d+\\))?(\\[.+\\] )*rosne gaming"
 					]
 				}
 			}
