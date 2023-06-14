@@ -26,8 +26,9 @@
 						"(\\(\\d+\\))?Lucien",
 						"(\\(\\d+\\))?\\(CORPORATE\\) Cvnt",
 						"(\\(\\d+\\))?Ninjabot #\\d{4}",
-						"(\\(\\d+\\))?(\\[.+\\] )*rosne gaming",
-						"(\\(\\d+\\))?(.*)WRgscGnCGe(.*)"
+						"(\\(\\d+\\))?(.*)rosne gaming",
+						"(\\(\\d+\\))?(.*)WRgscGnCGe(.*)",
+						"(\\(\\d+\\))?(.*)P7yAsMu7hG(.*)"
 					]
 				}
 			}
