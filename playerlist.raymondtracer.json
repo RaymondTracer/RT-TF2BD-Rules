@@ -624,6 +624,12 @@
 			"attributes": [
 				"cheater"
 			],
+			"steamid": "[U:1:1484163140]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
 			"steamid": "[U:1:1521685766]"
 		},
 		{
@@ -1494,7 +1500,13 @@
 			"attributes": [
 				"cheater"
 			],
-			"steamid": "[U:1:1484163140]"
+			"steamid": "[U:1:55064033]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:93765404]"
 		}
 	]
 }
