@@ -54,6 +54,12 @@
 			"attributes": [
 				"cheater"
 			],
+			"steamid": "[U:1:55064033]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
 			"steamid": "[U:1:81218369]"
 		},
 		{
@@ -61,6 +67,12 @@
 				"cheater"
 			],
 			"steamid": "[U:1:91648340]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:93765404]"
 		},
 		{
 			"attributes": [
@@ -1500,13 +1512,43 @@
 			"attributes": [
 				"cheater"
 			],
-			"steamid": "[U:1:55064033]"
+			"steamid": "[U:1:54637332]"
 		},
 		{
 			"attributes": [
 				"cheater"
 			],
-			"steamid": "[U:1:93765404]"
+			"steamid": "[U:1:1539775475]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1540223050]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1542573778]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1542618732]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1542700373]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1542721171]"
 		}
 	]
 }
