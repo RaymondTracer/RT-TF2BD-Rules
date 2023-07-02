@@ -14,7 +14,7 @@
 					"cheater"
 				]
 			},
-			"description": "Regex Name match",
+			"description": "Raymond Tracer's Rule List",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
