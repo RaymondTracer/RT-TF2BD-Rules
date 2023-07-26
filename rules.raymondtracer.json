@@ -21,16 +21,14 @@
 					"mode": "regex",
 					"patterns": [
 						"(\\(\\d+\\))?\\d{17}",
-						"(\\(\\d+\\))?https://octogaming.tk/mcd",
-						"(\\(\\d+\\))?quizno",
-						"(\\(\\d+\\))?Lucien",
 						"(\\(\\d+\\))?\\(CORPORATE\\) Cvnt",
 						"(\\(\\d+\\))?Ninjabot #\\d{4}",
 						"(\\(\\d+\\))?(.*)rosne gaming",
 						"(\\(\\d+\\))?(.*)WRgscGnCGe(.*)",
 						"(\\(\\d+\\))?(.*)P7yAsMu7hG(.*)",
 						"(\\(\\d+\\))?2FORT DEFENDER",
-						"(\\(\\d+\\))?(.*)O(.*)M(.*)E(.*)G(.*)A(.*)T(.*)R(.*)O(.*)N(.*)I(.*)C(.*)"
+						"(\\(\\d+\\))?(.*)O(.*)M(.*)E(.*)G(.*)A(.*)T(.*)R(.*)O(.*)N(.*)I(.*)C(.*)",
+						"(\\(\\d+\\))?discord\\.gg\\/ratsquad"
 					]
 				}
 			}
