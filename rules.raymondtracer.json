@@ -20,7 +20,7 @@
 					"case_sensitive": false,
 					"mode": "regex",
 					"patterns": [
-						"(\\(\\d+\\))?\\d{17}",
+						"(\\(\\d+\\))?(?!76561199005145323)\\d{17}",
 						"(\\(\\d+\\))?\\(CORPORATE\\) Cvnt",
 						"(\\(\\d+\\))?Ninjabot #\\d{4}",
 						"(\\(\\d+\\))?(.*)rosne gaming",
